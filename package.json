@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/abhay0440/EssentialSports_Api/issues"
   },
-  "homepage": "https://github.com/abhay0440/EssentialSports_Api#readme"
+  "homepage": "https://github.com/abhay0440/EssentialSports_Api#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cors": "^2.8.5"
+  }
 }
