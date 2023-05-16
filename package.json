@@ -1,0 +1,19 @@
+{
+  "name": "essentialsports_api",
+  "version": "1.0.0",
+  "description": "EssentialSports_Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhay0440/EssentialSports_Api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhay0440/EssentialSports_Api/issues"
+  },
+  "homepage": "https://github.com/abhay0440/EssentialSports_Api#readme"
+}
