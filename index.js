@@ -11,7 +11,7 @@ app.listen(PORT, () => {
 
 app.use(cors());
 
-app.get('/rss', async (req, res) => {
+app.get('/', async (req, res) => {
   try {
     console.log("//////////////")
     const response = await axios.get('https://www.essentiallysports.com/feed/');
